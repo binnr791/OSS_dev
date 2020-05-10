@@ -8,7 +8,7 @@ import android.view.KeyEvent;
 import android.os.Bundle;
 
 //컴퓨터공학과 2019026071 빈현우
-
+//a
 public class MainActivity extends AppCompatActivity {
 
     WebView myWebView;
